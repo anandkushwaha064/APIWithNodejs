@@ -1,0 +1,23 @@
+{
+  "name": "le-api-service",
+  "version": "1.0.0",
+  "description": "this is node js service to communicate with mongodb server",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run",
+    "start": "nodemon index.js"
+  },
+  "author": "Anand Kushwaha",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.5",
+    "nodemon": "^2.0.12",
+    "validator": "^13.6.0"
+  }
+}

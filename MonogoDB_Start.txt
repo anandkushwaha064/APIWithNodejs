@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=j2nv6cfAsp0&t=2685s
+
+mongod --dbpath C:/Users/anand_6w1zj0t/data/db
